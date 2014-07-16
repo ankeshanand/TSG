@@ -1,0 +1,124 @@
+/*gc.css*/
+
+#name_of_gc
+{
+	height: 95px;
+	text-align: center;
+	background: #353F57;
+	padding: 10px 10px 0px 10px;
+	color: white;
+}
+#sub_menu
+{
+	float: right;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#sub_menu a
+{
+	font-size: 3ex;
+	text-align: center;
+	margin-left: 10px;
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+	border-radius: 3px;
+	margin-bottom: 0px;
+}
+#sub_menu a:hover
+{
+
+}
+#schedule,#results,#tally
+{
+	width: 900px;
+	margin: 20px auto;
+}
+#schedule,#results,#tally h2
+{
+	text-align: center;
+}
+.name_of_event
+{
+	height: 60px;
+	padding: 2px 5px 2px 5px;
+	border-bottom: 1px dashed black;
+}
+
+.name_of_event h3
+{
+	float: left;
+}
+.section
+{
+	float: right;
+	position: relative;
+}
+.date_icon
+{
+	float: left;
+	margin: 10px 20px;
+}
+.date
+{
+	float: right;
+}
+
+.result
+{
+	border-bottom: 1px dashed black;
+	padding: 5px 30px;
+}
+.event h3
+{
+	text-decoration: underline;
+	line-height: 30px;
+}
+.second_position
+{
+	border-bottom: 1px dotted black;
+	height: 30px;
+	width: 700px;
+	padding:0px 8px; 
+	margin: 2px auto;
+}
+.first_position
+{
+	border-bottom: 1px dotted black;
+	height: 30px;
+	width: 700px;
+	padding:0px 8px; 
+	margin: 2px auto;
+}
+.third_position
+{
+	height: 30px;
+	width: 700px;
+	margin: 2px auto;
+	padding:0px 8px;
+}
+
+.result span
+{
+	float: left;
+	font-size: 17.5px;
+	font-family: inherit;
+	font-weight: bold;
+	color: inherit;
+	text-rendering: optimizelegibility;
+	text-align: left;
+}
+.icon_result
+{
+	float: right;
+}
+.gold {
+color: #D6B503;
+}
+.silver {
+color: #CCCCCC;
+}
+.bronze {
+color: #A67D3D;
+}

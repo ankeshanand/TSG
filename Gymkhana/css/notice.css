@@ -1,0 +1,15 @@
+.subject
+{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.content
+{
+	width: 550px;
+	margin:5px auto;
+}
+.posted_by
+{
+	margin-left: 5px;
+	font-weight: bold;
+}

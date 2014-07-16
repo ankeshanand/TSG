@@ -1,0 +1,33 @@
+#wrapper
+{
+	margin: 10px auto;
+	width: 900px;
+	border: 1px solid black;
+	padding: 5px 5px 20px 5px;
+	border-radius: 10px;
+}
+h2
+{
+	text-align: center;
+}
+.noticeboard
+{
+	margin: 10px auto;
+	width: 900px;
+	padding: 10px 5px;
+}
+.date
+{
+	width: 30%;
+	padding: 3px 5px;
+}
+.subject
+{
+	width: 60%;
+
+	padding: 3px 5px;
+}
+tr
+{
+	border-bottom: 1px dotted black;
+}

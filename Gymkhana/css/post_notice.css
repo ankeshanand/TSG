@@ -1,0 +1,23 @@
+#wrapper
+{
+	width: 900px;
+	margin:10px auto;
+}
+.ques
+{
+	height: 40px;
+	padding: 5px;
+}
+.field
+{
+	float: left;
+	text-align: right;
+	margin-right: 20px;
+	width: 150px;
+}
+
+.input-area
+{
+	float: right;
+	width: 700px;
+}

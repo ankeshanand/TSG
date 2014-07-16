@@ -1,0 +1,13 @@
+.grid li {
+	display: inline-block;
+	width: 200px;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	position: relative;
+}
+
+.panel img{
+    height:160px;
+    width:100%;
+}
